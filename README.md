@@ -13,4 +13,9 @@ Examples that we are going to cover:
 
 4- Add digital signiture 
 
-5-
+5- Digital Signiture verification
+
+6- Combine PDF files
+
+7- Compare files
+
